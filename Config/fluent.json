@@ -5,7 +5,7 @@
     "//": "Other drivers are available through Vapor providers",
     "//": "https://github.com/search?q=topic:vapor-provider+topic:database",
     "//": "driver memory is the default",
-    "driver": "postgresql",
+    "driver": "memory",
     
     "//": "Naming convention to use for creating foreign id keys,",
     "//": "e.g., `user_id`",
